@@ -17,7 +17,6 @@
 - Well thought through UX
 - Be considerate of individuals that primarily use their thumbs, left or right hands
 
-
 ## Documentation
 
 ***Using React Native and Expo to start an app***
